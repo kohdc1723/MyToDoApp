@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+.form {
+  display: inline;
+}
+.icon {
+  text-align: center;
+}
+.feat {
+  text-align: center;
+}
+.desc {
+  text-align: center;
+}
